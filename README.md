@@ -1,13 +1,6 @@
 ## Here are some courses which are good for becoming a good computer scientist and data scientist
 
 
-
-<style>
-table th:first-of-type {
-    width: 30%;
-}
-</style>
-
 ## MATH
 |Course|Institute|Rating|Type|Status|Commnet|
 |:---|:---|:---|:---|:---|:---|

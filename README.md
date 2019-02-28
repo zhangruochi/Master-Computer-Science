@@ -74,6 +74,7 @@
 ## Artificial Intelligence
 |Course|Institute|Rating|Type|Status|Commnet|
 |:---|:---|:---|:---|:---|:---|
+|[AI for Everyone](https://www.coursera.org/learn/ai-for-everyone)|deeplearning.ai|5|Artificial Intelligence|completed|good course for AI from business perspective|
 |[Artificial Intelligence](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/course/)|UCBerkeley||Artificial Intelligence|||
 |[Data Mining Specialization](https://www.coursera.org/specializations/data-mining)|UIUC||Data Mining|||
 |[<font color="red">Data Systems Specialization</font>](https://www.coursera.org/specializations/data-systems)|ASU|4.0|Database||||

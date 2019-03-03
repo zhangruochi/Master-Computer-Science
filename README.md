@@ -80,3 +80,30 @@
 |[<font color="red">Data Systems Specialization</font>](https://www.coursera.org/specializations/data-systems)|ASU|4.0|Database||||
 
 
+
+
+
+## I love MOOCs and MOOCs love me
+
+![Structuring Machine Learning Projects.png](Structuring Machine Learning Projects.png)
+![Convolutional Neural Networks.png](Convolutional Neural Networks.png)
+![Introduction to Programming with MATLAB.png](Introduction to Programming with MATLAB.png)
+![Basic Modeling for Discrete Optimization.png](Basic Modeling for Discrete Optimization.png)
+![Java Programming_Arrays, Lists, and Structured Data.png](Java Programming_Arrays, Lists, and Structured Data.png)
+![Mathematics for Machine Learning_Multivariate Calculus.png](Mathematics for Machine Learning_Multivariate Calculus.png)
+![How Google does Machine Learning.png](How Google does Machine Learning.png)
+![頑想學概率_機率一.png](頑想學概率_機率一.png)
+![Mathematics for Machine Learning_Linear Algebra.png](Mathematics for Machine Learning_Linear Algebra.png)
+![Intro to TensorFlow.png](Intro to TensorFlow.png)
+![Feature Engineering.png](Feature Engineering.png)
+![Java Programming_Solving Problems with Software.png](Java Programming_Solving Problems with Software.png)
+![Improving Deep Neural Networks_Hyperparameter tuning, Regularization and Optimization.png](Improving Deep Neural Networks_Hyperparameter tuning, Regularization and Optimization.png)
+![C程序设计进阶.png](C程序设计进阶.png)
+![Data Structures.png](Data Structures.png)
+![Launching into Machine Learning.png](Launching into Machine Learning.png)
+![Machine Learning Foundations.png](Machine Learning Foundations.png)
+![Machine Learning.png](Machine Learning.png)
+![Algorithms on Graphs.png](Algorithms on Graphs.png)
+![AI For Everyone.png](AI For Everyone.png)
+![Algorithmic Toolbox.png](Algorithmic Toolbox.png)
+![Neural Networks and Deep Learning.png](Neural Networks and Deep Learning.png)

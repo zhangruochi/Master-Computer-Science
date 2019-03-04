@@ -1,7 +1,38 @@
-## Here are some courses which are good for becoming a good computer scientist and data scientist
+## I love MOOCs and MOOCs love me
 
 
-## MATH
+### Certificates
+
+These are some courses I have finished
+
+![Structuring_Machine_Learning_Projects.png](Structuring_Machine_Learning_Projects.png)
+![Convolutional_Neural_Networks.png](Convolutional_Neural_Networks.png)
+![Introduction_to_Programming_with_MATLAB.png](Introduction_to_Programming_with_MATLAB.png)
+![Basic_Modeling_for_Discrete_Optimization.png](Basic_Modeling_for_Discrete_Optimization.png)
+![Java_Programming_Arrays_Lists_and_Structured_Data.png](Java_Programming_Arrays_Lists_and_Structured_Data.png)
+![Mathematics_for_Machine_Learning_Multivariate_Calculus.png](Mathematics_for_Machine_Learning_Multivariate_Calculus.png)
+![How_Google_does_Machine_Learning.png](How_Google_does_Machine_Learning.png)
+![頑想學概率_機率一.png](頑想學概率_機率一.png)
+![Mathematics_for_Machine_Learning_Linear_Algebra.png](Mathematics_for_Machine_Learning_Linear_Algebra.png)
+![Intro_to_TensorFlow.png](Intro_to_TensorFlow.png)
+![Feature_Engineering.png](Feature_Engineering.png)
+![Java_Programming_Solving_Problems_with_Software.png](Java_Programming_Solving_Problems_with_Software.png)
+![Improving_Deep_Neural_Networks_Hyperparameter_tuning_Regularization_and_Optimization.png](Improving_Deep_Neural_Networks_Hyperparameter_tuning_Regularization_and_Optimization.png)
+![C程序设计进阶.png](C程序设计进阶.png)
+![Data_Structures.png](Data_Structures.png)
+![Launching_into_Machine_Learning.png](Launching_into_Machine_Learning.png)
+![Machine_Learning_Foundations.png](Machine_Learning_Foundations.png)
+![Machine_Learning.png](Machine_Learning.png)
+![Algorithms_on_Graphs.png](Algorithms_on_Graphs.png)
+![AI_For_Everyone.png](AI_For_Everyone.png)
+![Algorithmic_Toolbox.png](Algorithmic_Toolbox.png)
+![Neural_Networks_and_Deep_Learning.png](Neural_Networks_and_Deep_Learning.png)
+
+
+
+### Here are some courses which are good for becoming a good computer scientist and data scientist
+
+### MATH
 |Course|Institute|Rating|Type|Status|Commnet|
 |:---|:---|:---|:---|:---|:---|
 |[<font color="red">Improving your statistical inferences</font>](https://www.coursera.org/learn/statistical-inferences/home/welcome)|Eindhoven University of Technology|4.9|Statistical|||
@@ -30,7 +61,7 @@
 
 
 
-## Computer Scicence
+### Computer Scicence
 |Course|Institute|Rating|Type|Status|Commnet|
 |:---|:---|:---|:---|:---|:---|
 |[<font color="red">Cloud Computing Specialization</font>](https://www.coursera.org/specializations/cloud-computing?)|UIUC|4.4|Cloud Computing|||
@@ -54,7 +85,7 @@
 |[Operating System Engineering](https://pdos.csail.mit.edu/6.828/2017/schedule.html)|MIT||Operating Systems|||
 |[6.006 Introduction to Algorithms](https://learning-modules.mit.edu/class/index.html?uuid=/course/6/sp19/6.006#dashboard)|MIT||Algorithm and Data Structure||||
 
-## Machine Learning
+### Machine Learning
 |Course|Institute|Rating|Type|Status|Commnet|
 |:---|:---|:---|:---|:---|:---|
 |[Machine Learning Foundations](https://www.coursera.org/specializations/machine-learning)|University of Washington||Machine Learning|||
@@ -71,7 +102,7 @@
 |[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu)|Standford||Computer Vision||||
 
 
-## Artificial Intelligence
+### Artificial Intelligence
 |Course|Institute|Rating|Type|Status|Commnet|
 |:---|:---|:---|:---|:---|:---|
 |[AI for Everyone](https://www.coursera.org/learn/ai-for-everyone)|deeplearning.ai|5|Artificial Intelligence|completed|good course for AI from business perspective|
@@ -79,31 +110,3 @@
 |[Data Mining Specialization](https://www.coursera.org/specializations/data-mining)|UIUC||Data Mining|||
 |[<font color="red">Data Systems Specialization</font>](https://www.coursera.org/specializations/data-systems)|ASU|4.0|Database||||
 
-
-
-
-
-## I love MOOCs and MOOCs love me
-
-![Structuring_Machine_Learning_Projects.png](Structuring_Machine_Learning_Projects.png)
-![Convolutional_Neural_Networks.png](Convolutional_Neural_Networks.png)
-![Introduction_to_Programming_with_MATLAB.png](Introduction_to_Programming_with_MATLAB.png)
-![Basic_Modeling_for_Discrete_Optimization.png](Basic_Modeling_for_Discrete_Optimization.png)
-![Java_Programming_Arrays_Lists_and_Structured_Data.png](Java_Programming_Arrays_Lists_and_Structured_Data.png)
-![Mathematics_for_Machine_Learning_Multivariate_Calculus.png](Mathematics_for_Machine_Learning_Multivariate_Calculus.png)
-![How_Google_does_Machine_Learning.png](How_Google_does_Machine_Learning.png)
-![頑想學概率_機率一.png](頑想學概率_機率一.png)
-![Mathematics_for_Machine_Learning_Linear_Algebra.png](Mathematics_for_Machine_Learning_Linear_Algebra.png)
-![Intro_to_TensorFlow.png](Intro_to_TensorFlow.png)
-![Feature_Engineering.png](Feature_Engineering.png)
-![Java_Programming_Solving_Problems_with_Software.png](Java_Programming_Solving_Problems_with_Software.png)
-![Improving_Deep_Neural_Networks_Hyperparameter_tuning_Regularization_and_Optimization.png](Improving_Deep_Neural_Networks_Hyperparameter_tuning_Regularization_and_Optimization.png)
-![C程序设计进阶.png](C程序设计进阶.png)
-![Data_Structures.png](Data_Structures.png)
-![Launching_into_Machine_Learning.png](Launching_into_Machine_Learning.png)
-![Machine_Learning_Foundations.png](Machine_Learning_Foundations.png)
-![Machine_Learning.png](Machine_Learning.png)
-![Algorithms_on_Graphs.png](Algorithms_on_Graphs.png)
-![AI_For_Everyone.png](AI_For_Everyone.png)
-![Algorithmic_Toolbox.png](Algorithmic_Toolbox.png)
-![Neural_Networks_and_Deep_Learning.png](Neural_Networks_and_Deep_Learning.png)

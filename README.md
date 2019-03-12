@@ -27,6 +27,7 @@ These are some courses I have finished
 ![AI_For_Everyone.png](AI_For_Everyone.png)
 ![Algorithmic_Toolbox.png](Algorithmic_Toolbox.png)
 ![Neural_Networks_and_Deep_Learning.png](Neural_Networks_and_Deep_Learning.png)
+![Matrix_Algebra_for_Engineers.png](Matrix_Algebra_for_Engineers.png)
 
 
 

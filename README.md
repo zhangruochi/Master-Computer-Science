@@ -28,6 +28,7 @@ These are some courses I have finished
 ![Algorithmic_Toolbox.png](Algorithmic_Toolbox.png)
 ![Neural_Networks_and_Deep_Learning.png](Neural_Networks_and_Deep_Learning.png)
 ![Matrix_Algebra_for_Engineers.png](Matrix_Algebra_for_Engineers.png)
+![Machine_Learning_Foundations_A_Case_Study_Approach.png](Machine_Learning_Foundations_A_Case_Study_Approach.png)
 
 
 

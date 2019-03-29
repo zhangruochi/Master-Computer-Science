@@ -5,6 +5,8 @@
 
 These are some courses I have finished
 
+![Deep_Learning.png](Deep_Learning.png)
+![Sequence_Models.png](Sequence_Models.png)
 ![Structuring_Machine_Learning_Projects.png](Structuring_Machine_Learning_Projects.png)
 ![Convolutional_Neural_Networks.png](Convolutional_Neural_Networks.png)
 ![Introduction_to_Programming_with_MATLAB.png](Introduction_to_Programming_with_MATLAB.png)

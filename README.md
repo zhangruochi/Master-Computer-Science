@@ -5,6 +5,7 @@
 
 These are some courses I have finished
 
+![Machine_Learning_Regression.png](Machine_Learning_Regression.png)
 ![Deep_Learning.png](Deep_Learning.png)
 ![Sequence_Models.png](Sequence_Models.png)
 ![Structuring_Machine_Learning_Projects.png](Structuring_Machine_Learning_Projects.png)

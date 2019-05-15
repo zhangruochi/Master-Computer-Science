@@ -5,6 +5,8 @@
 
 These are some courses I have finished
 
+![Machine_Learning_uw.png](Machine_Learning_uw.png)
+![Machine_Learning_Clustering_Retrieval.png](Machine_Learning_Clustering_Retrieval.png)
 ![Machine_Learning_Classification.png](Machine_Learning_Classification.png)
 ![Machine_Learning_Regression.png](Machine_Learning_Regression.png)
 ![Deep_Learning.png](Deep_Learning.png)

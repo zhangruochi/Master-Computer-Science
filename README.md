@@ -5,6 +5,7 @@
 
 These are some courses I have finished
 
+![Convolutional_Neural_Networks_in_TensorFlow.png](Convolutional_Neural_Networks_in_TensorFlow.png)
 ![Introduction_to_TensorFlow_for_Artificial_Intelligence_Machine_Learning_and_Deep_Learning.png](Introduction_to_TensorFlow_for_Artificial_Intelligence_Machine_Learning_and_Deep_Learning.png)
 ![Machine_Learning_uw.png](Machine_Learning_uw.png)
 ![Machine_Learning_Clustering_Retrieval.png](Machine_Learning_Clustering_Retrieval.png)

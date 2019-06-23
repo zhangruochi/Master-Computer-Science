@@ -5,6 +5,7 @@
 
 These are some courses I have finished
 
+![Concurrent_Programming_in_Java.png](Concurrent_Programming_in_Java.png)
 ![Parallel_Programming_in_Java.png](Parallel_Programming_in_Java.png)
 ![From_Nand_to_Tetris_I.png](From_Nand_to_Tetris_I.png)
 ![Convolutional_Neural_Networks_in_TensorFlow.png](Convolutional_Neural_Networks_in_TensorFlow.png)

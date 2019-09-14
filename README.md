@@ -76,7 +76,7 @@
 |[CS224n: Natural Language Processing with Deep Learning](index/http://web.stanford.edu/class/cs224n/)|Stanford||Natural Language Processing|||
 |[CS231n: Convolutional Neural Networks for Visual Recognition](index/http://cs231n.stanford.edu)|Standford||Computer Vision|||
 |[11-785 Introduction to Deep Learning](index/http://deeplearning.cs.cmu.edu)|Standford||Deep Learning|||
-|[<font color="red">TensorFlow in Practice</font>](https://www.coursera.org/specializations/tensorflow-in-practice)|deeplearning-ai|4.3|Deep Learning|![Convolutional_Neural_Networks_in_TensorFlow.png](index/Convolutional_Neural_Networks_in_TensorFlow.png) ![Introduction_to_TensorFlow_for_Artificial_Intelligence_Machine_Learning_and_Deep_Learning.png](index/Introduction_to_TensorFlow_for_Artificial_Intelligence_Machine_Learning_and_Deep_Learning.png) ![Natural_Language_Processing_in_TensorFlow.png](index/Natural_Language_Processing_in_TensorFlow.png)|||
+|[<font color="red">TensorFlow in Practice</font>](https://www.coursera.org/specializations/tensorflow-in-practice)|deeplearning-ai|4.3|Deep Learning|![TensorFlow_in_Practice.png](index/TensorFlow_in_Practice.png) ![Convolutional_Neural_Networks_in_TensorFlow.png](index/Convolutional_Neural_Networks_in_TensorFlow.png) ![Introduction_to_TensorFlow_for_Artificial_Intelligence_Machine_Learning_and_Deep_Learning.png](index/Introduction_to_TensorFlow_for_Artificial_Intelligence_Machine_Learning_and_Deep_Learning.png) ![Natural_Language_Processing_in_TensorFlow.png](index/Natural_Language_Processing_in_TensorFlow.png) ![Sequences_Time_Series_and_Prediction.png](index/Sequences_Time_Series_and_Prediction.png)|||
 
 
 ## Big Data Architecture

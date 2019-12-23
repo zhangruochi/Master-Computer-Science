@@ -73,8 +73,16 @@
 |[機器學習基石下](https://www.coursera.org/learn/ntumlone-algorithmicfoundations)|National Taiwan University|4.9|Machine Learning|||
 |[Recommender Systems Specialization](https://www.coursera.org/specializations/recommender-systems)|University of Minnesota||Recommender Systems|||
 |[Probabilistic Graphical Models Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)|Standford|4.7|Graphical Model|||
-|[CS224n: Natural Language Processing with Deep Learning](index/http://web.stanford.edu/class/cs224n/)|Stanford||Natural Language Processing|||
-|[CS231n: Convolutional Neural Networks for Visual Recognition](index/http://cs231n.stanford.edu)|Standford||Computer Vision|||
+|[<font color="blue">CS224n: Natural Language Processing with Deep Learning</font>](http://web.stanford.edu/class/cs224n/)|Stanford||Natural Language Processing|||
+|[CS224u: Natural Language Understanding](http://web.stanford.edu/class/cs224u/index.html)|Stanford||Natural Language Processing|||
+|[<font color="blue">CS231n: Convolutional Neural Networks for Visual Recognition</font>](http://cs231n.stanford.edu)|Standford||Computer Vision|||
+|[CS246: Mining Massive Data Sets](http://web.stanford.edu/class/cs246/)|Standford||Big Data|||
+|[CS229: Machine Learning](http://cs229.stanford.edu)|Standford||Machine Learning|||
+|[CS236: Deep Generative Models](http://cs236.stanford.edu)|Standford||GAN|||
+|[CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html)|Standford||Reinforcement Learning|||
+|[CS230 Deep Learning](https://cs230.stanford.edu)|Standford||Computer Vision|||
+|[CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)|Standford||Computer Vision|||
+|[CS294-158 Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp19/home)|Berkeley||Unsupervised Learning|||
 |[11-785 Introduction to Deep Learning](index/http://deeplearning.cs.cmu.edu)|Standford||Deep Learning|||
 |[<font color="red">TensorFlow in Practice</font>](https://www.coursera.org/specializations/tensorflow-in-practice)|deeplearning-ai|4.3|Deep Learning|![TensorFlow_in_Practice.png](index/TensorFlow_in_Practice.png) ![Convolutional_Neural_Networks_in_TensorFlow.png](index/Convolutional_Neural_Networks_in_TensorFlow.png) ![Introduction_to_TensorFlow_for_Artificial_Intelligence_Machine_Learning_and_Deep_Learning.png](index/Introduction_to_TensorFlow_for_Artificial_Intelligence_Machine_Learning_and_Deep_Learning.png) ![Natural_Language_Processing_in_TensorFlow.png](index/Natural_Language_Processing_in_TensorFlow.png) ![Sequences_Time_Series_and_Prediction.png](index/Sequences_Time_Series_and_Prediction.png)|||
 
@@ -93,6 +101,8 @@
 |Course|Institute|Rating|Type|Certificate|Note|
 |:---|:---|:---|:---|:---|:---|
 |[<font color="blue">AI for Everyone</font>](https://www.coursera.org/learn/ai-for-everyone)|deeplearning-ai|5|Artificial Intelligence|![AI_For_Everyone.png](index/AI_For_Everyone.png)|[Blog, AI for Everyone](https://zhangruochi.com/AI-for-Everyone/2019/02/28/)|
+|[AI-Sys Spring 2019](https://ucbrise.github.io/cs294-ai-sys-sp19/)|berkeley|5|Artificial Intelligence|||
+|[CSE 599W](https://dlsys.cs.washington.edu)|UW|5|AI system|||
 |[AI-Sys Spring 2019](https://ucbrise.github.io/cs294-ai-sys-sp19/)|berkeley|5|Artificial Intelligence|||
 |[Artificial Intelligence](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/course/)|UCBerkeley||Artificial Intelligence|||
 

@@ -85,6 +85,9 @@
 |[CS294-158 Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp19/home)|Berkeley||Unsupervised Learning|||
 |[11-785 Introduction to Deep Learning](index/http://deeplearning.cs.cmu.edu)|Standford||Deep Learning|||
 |[<font color="red">TensorFlow in Practice</font>](https://www.coursera.org/specializations/tensorflow-in-practice)|deeplearning-ai|4.3|Deep Learning|![TensorFlow_in_Practice.png](index/TensorFlow_in_Practice.png) ![Convolutional_Neural_Networks_in_TensorFlow.png](index/Convolutional_Neural_Networks_in_TensorFlow.png) ![Introduction_to_TensorFlow_for_Artificial_Intelligence_Machine_Learning_and_Deep_Learning.png](index/Introduction_to_TensorFlow_for_Artificial_Intelligence_Machine_Learning_and_Deep_Learning.png) ![Natural_Language_Processing_in_TensorFlow.png](index/Natural_Language_Processing_in_TensorFlow.png) ![Sequences_Time_Series_and_Prediction.png](index/Sequences_Time_Series_and_Prediction.png)|||
+|[<font color="red">TensorFlow: Data and Deployment</font>](https://www.coursera.org/learn/advanced-deployment-scenarios-tensorflow/home/info)|deeplearning-ai|4.3|Deep Learning|![TensorFlow_Data_and_Device_based_Models_with_TensorFlow_Lite_Deployment](index/TensorFlow_Data_and_Device_based_Models_with_TensorFlow_Lite_Deployment) ![Data_Pipelines_with_TensorFlow_Data_Services](index/Data_Pipelines_with_TensorFlow_Data_Services) ![Device_based_Models_with_TensorFlow_Lite](index/Device_based_Models_with_TensorFlow_Lite) ![Advanced_Deployment_Scenarios_with_TensorFlow](index/Advanced_Deployment_Scenarios_with_TensorFlow) ![Browser_based_Models_with_TensorFlow_js](index/Browser_based_Models_with_TensorFlow_js)|||
+
+
 
 
 ## Big Data Architecture

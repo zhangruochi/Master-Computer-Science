@@ -58,7 +58,7 @@
 |[Operating System Engineering](https://pdos.csail.mit.edu/6.828/2017/schedule.html)|MIT||Operating Systems|||
 |[Introduction to Computer Systems (ICS)](index/http://www.cs.cmu.edu/~213/index.html)|CMU||Computer System|||
 |[6.006 Introduction to Algorithms](https://learning-modules.mit.edu/class/index.html?uuid=/course/6/sp19/6.006#dashboard)|MIT||Algorithm and Data Structure||||
-|[Accelerated Computer Science Fundamentals](https://www.coursera.org/specializations/cs-fundamentals)|Coursera||Algorithm and Data Structure|![Accelerated_Computer_Science_Fundamentals_Specialization](Accelerated_Computer_Science_Fundamentals_Specialization.png) ![Unordered_Data_Structures](Unordered_Data_Structures.png)  ![Ordered_Data_Structures](Ordered_Data_Structures.png)  ![Object_Oriented_Data_Structures_in_C_plus_plus](Object_Oriented_Data_Structures_in_C_plus_plus.png)|||
+|[Accelerated Computer Science Fundamentals](https://www.coursera.org/specializations/cs-fundamentals)|Coursera||Algorithm and Data Structure|![Accelerated_Computer_Science_Fundamentals_Specialization](index/Accelerated_Computer_Science_Fundamentals_Specialization.png) ![Unordered_Data_Structures](index/Unordered_Data_Structures.png)  ![Ordered_Data_Structures](index/Ordered_Data_Structures.png)  ![Object_Oriented_Data_Structures_in_C_plus_plus](index/Object_Oriented_Data_Structures_in_C_plus_plus.png)|||
 
 ## Machine Learning
 |Course|Institute|Rating|Type|Certificate|Note|

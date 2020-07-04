@@ -109,8 +109,7 @@
 |[CSE 599W](https://dlsys.cs.washington.edu)|UW|5|AI system|||
 |[AI-Sys Spring 2019](https://ucbrise.github.io/cs294-ai-sys-sp19/)|berkeley|5|Artificial Intelligence|||
 |[Artificial Intelligence](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/course/)|Berkeley|5|Artificial Intelligence|||
-
-|[<font color="red">AI for Medicine</font>](https://www.coursera.org/learn/ai-for-medical-treatment/home/welcome)|deeplearning-ai|4.7|Artificial Intelligence|![Specialization](index/AI_for_Medical_Diagnosis.png) ![Specialization](index/AI_for_Medical_Prognosis.png) ![Specialization](index/AI_For_Medical_Treatment.png) ![Specialization](index/AI_for_Medicine.png) ||
+|[<font color="red">AI for Medicine</font>](https://www.coursera.org/learn/ai-for-medical-treatment/home/welcome)|deeplearning-ai|4.7|Artificial Intelligence|![Specialization](index/AI_for_Medical_Diagnosis.png) ![Specialization](index/AI_for_Medical_Prognosis.png) ![Specialization](index/AI_For_Medical_Treatment.png) ![Specialization](index/AI_for_Medicine.png)||
 
 
 
